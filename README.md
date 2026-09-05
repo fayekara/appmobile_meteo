@@ -109,3 +109,4 @@ avant le rendu :
 - [ ] Les widgets sont bien factorisés dans `weather_widgets.dart`
 - [ ] Les animations (dégradé + fondu) sont visibles et fluides
 - [ ] Le zip final + rapport Word/PDF sont prêts pour la remise
+
