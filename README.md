@@ -1,4 +1,4 @@
-# Application Météo — Activité n°4 (Accès à l'API OpenWeather)
+# Application Météo  (Accès à l'API OpenWeather)
 
 Application Flutter développée selon l'architecture **MVC + Provider**,
 conformément à la consigne de l'Atelier n°4.
